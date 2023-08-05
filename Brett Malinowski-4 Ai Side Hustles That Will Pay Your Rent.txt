@@ -1,0 +1,89 @@
+You. Here are four realistic AI side hustles that will pay your rent. With just a few hours of work each day, you could be easily making $3,000 plus a month.
+
+All you need to do is pick one and take consistent focused action like this video. If you're excited to make money with AI now let's get into it. The first side hustle is YouTube automation.
+
+More specifically a faceless YouTube channel. Which means you don't need need a camera. So if you guys don't know what faceless YouTube channels are, they're basically these videos that have a voiceover narrator that tell a story about a specific topic.
+
+It should be a little whack for a former UFC commentator to become an expert. Then you just have like a slideshow of images or videos that go with the voiceover. It's very straightforward, you've seen them everywhere.
+
+It's very popular to see educational or historical videos in the style. And now with AI voice tools like Eleven Labs, your voice is not even needed. Yes, that was AI.
+
+So I have a personal friend that has a faceless YouTube channel and his channel is in the history niche. And what he does is he chooses a specific topic. He then finds articles on that event and asks chat GPT to write them in the format of a video script.
+
+Once complete, he uses quillbot to reword the script at a high school reading level. Disclaimer if you're using articles like this, make sure you're crediting the actual article by linking it and giving author the proper credits and do not copy it word for word. Next we need the voiceover narration.
+
+And to do this he created an AI clone of his voice. He went to Eleven Labs and fed the algorithm text narrated by him. Eleven Labs then uses that to create AI voiceovers that sound just like his voice.
+
+You don't have to use your voice, you can use any voice or they actually even have preset voices that anybody can use. Once you have the voice cloned, all you have to do is upload the script and just like that you have instant AI voiceovers. Once that's done, now all you have to do is edit the video.
+
+But this is where you add your human touch and really set yourself apart. Download a free editing software called DaVinci Resolve. And guys, video editing is really easy.
+
+I bet you can learn the basics in like 1 hour. But once you have that figured out, then you just go looking for stock footage in your niche. Basically it's images and videos of the topic that are free to use on the internet.
+
+Just google your niche stock footage. So the more effort you put into this, the better the videos will be. Which means the more views that you will get.
+
+Really make sure you have the mindset of making great videos. Just because AI tools make it fast doesn't mean that you should be rushing to make a lot of low quality videos, you need to take that time that AI solves you and put that into making a better viewing experience for your audience. But now that you're done editing and the video is complete, the last thing that you're going to need is a thumbnail.
+
+And to make a thumbnail, all you need is midjourney. My friend uses midjourney to make his thumbnails. He keeps it quick, easy and simple and they have been working very well.
+
+And just like that, you're done. This AI system will make you a superhuman YouTuber with freakish levels of productivity. My friend makes each one of his videos in less than 3 hours.
+
+And last month he made $4,000 on YouTube ads alone. If you're interested in making a faceless YouTube channel, like my friend, he actually made a free course showing the entire process step by step, teaching you how to use each tool. I'll leave that in the first link in the description below.
+
+Okay, this next one is my personal favorite and is by far the biggest opportunity to make the most amount of money, and that is to create an AI software tool with no code on bubble. This is a pretty big deal because everybody knows that software companies are the best business model because you only have to make the product once and then you can sell it to thousands of thousands of customers. It's really high leverage.
+
+This is the opposite of, say, a restaurant where you have to make a new product, the food, every time there's a new customer. But the reason most people haven't made a software company is because traditionally you'd have to hire a developer and that's really expensive. But thanks to the evolution of no code, not anymore.
+
+So if you don't know, Bubble is a no code platform that helps non technical people build web apps. Kind of like how Shopify helps you build online stores without code. Bubble helps you build software companies without code, which is revolutionary because you can now build sites like Facebook and Airbnb without having to hire developers.
+
+Initially, I thought it was too good to be true, but then I had my team try it out for themselves and believe it or not, they made a fully functional AI software tool to help students with their homework. All they had to do was connect the OpenAI API to Bubble and design the app for a specific niche use case. And just like that, we were ready to accept payments and get customers in three days.
+
+It blew my mind. So last month I had them make a free course, walking you through that entire process and showing how you can do the exact same thing in under 2 hours. So if you want that, I'll also leave that link in the description below.
+
+There are so many problems that AI can solve right now, so if you see one and have a cool AI software product, idea, definitely pursue this. This is a huge opportunity right now, and the timing could not be better. So the third side hustle is one that's pretty new, but it's going to be a big deal, and that is selling prompts.
+
+There's word on the street that companies are paying over $300,000 for good prompt engineers right now, but I don't think most people know why prompts are even valuable in the first place. So let me explain with an example. When you are looking to get an output from Chat GBT, there are hundreds of different ways to ask that same question.
+
+But how you ask it, that question will drastically affect the output that you get. So let's say I wanted to understand the script style of Alex Hermosi so I could start making videos like him. If I ask Chat GPT describe Alex Hermosi's script style, I'm going to get a very lazy answer that's not very detailed.
+
+But if I ask it in a more specific way, like, tell me every you can about Alex Ramosi's scripts. I want to use what you give me to get a language model to recreate the script about a topic that I choose. Use a ton of detail and be specific.
+
+I want to know things like the tone, the structure he used, persuasion tactics and other things along those lines to be able to tell Chat GBT to recreate a script in that style. Don't talk about the subject he talked about, just the style and all the elements that would help a language model recreate it. This output is extremely detailed, and this detailed output not only helps me learn, but it also is a new template that I can use to ask Chat GBT to write me scripts on any topic in the future.
+
+This shows how valuable prompts can be. And the interesting part is I didn't come up with this detailed prompt. I actually found this on a website called Promptbase, which is a prompt marketplace.
+
+You can get prompts for Chat GPT, mid Journey and many other AI tools. And so if you don't really know how to ask a question, then you can just buy the prompt here. And since I bought that prompt, that means somebody sold it to me, and that is your opportunity.
+
+So if you're knowledgeable in a specific area, you can make a lot of money selling your prompts. Every industry has its own unique terms or phrases that outsiders might not know about. For example, if you're not a marketer, you're probably not going to know how to ask Chat GBT to write you a Facebook ad, script or an email campaign.
+
+But since I am a marketer, I would ask Chat GBT to write me a Facebook ad with a controversial three second hook with a call to action to my lead magnet, and then write me an email drip campaign with a persuasive sales copy that will optimize for conversions. If you're not a marketer. You probably don't know what call to actions, lead magnets or email drip campaigns are.
+
+So you'd be better off paying a few dollars to buy my prompt from me so you can get the best output possible. This way you're not guessing how to ask something that you know little about. After all, you don't know what you don't know.
+
+That's why buying and selling prompts are a great side job. You don't have to be an expert in something, but ODS are you know more about a specific topic than someone else might and that is valuable. Alright, and the final side hustle is going to be using AI design tools to start a handful of different design businesses.
+
+The first one would be using Canva and Mid journey to create thumbnails for YouTubers this may sound simple, but let me explain your angle. A good thumbnail is not about who is the best artist but who is the most creative. Getting someone to click on your video is almost more important than the video itself because if no one clicked on it, they'll never be able to watch it in the first place.
+
+So creating thumbnails that get people to click is a very valuable skill. For example, I made a really good video on businesses of the future and I was really confident in the video but when I uploaded it, my click through rate was under 5%, which is below average. And because of that I only got 9000 views in my first five days, which is below average for my channel.
+
+So on the fifth day I decided to change the thumbnail and immediately my click through rate jumped from 5% to 10%, which triggered the YouTube algorithm and I ended up getting over 100,000 views in the next three days alone. Now that video has over 300,000 views and it made me $2,000. If I never changed that thumbnail, it probably would have only made me $200.
+
+So a good thumbnail creator literally has the ability to make YouTubers tens of thousands of dollars extra per year and if you can make them more money, you will make more money. Now, this is a skill that has to be learned and you can learn for free on YouTube. But the only way to learn is by testing different thumbnails and seeing what's working.
+
+I use a tool called TubeBuddy that lets me split test my thumbnails constantly. All I have to do is go in and add the different thumbnails I want to test and then it automatically cycles them through day by day. And then after they all get cycled through, whichever one got the most clicks is deemed the winner and gets set as the permanent thumbnail for now on.
+
+And I want to make one thing clear the world does not need another cheap thumbnail designer. There is a difference between being able to make a thumbnail and making great thumbnails. Because I would pay top dollar for a professional thumbnail creator, someone who would full time go in, come up with ideas, design them, and then test them on my behalf.
+
+Iman Gotchi has three people on his team doing this full time because he knows that even if it gets a 1% increase in click through rate, that can result in millions and millions of views. I am like actually looking for someone with this skill right now, which is why I threw it in this video. So if you have that skill, leave your experience in the comment section and my team will reach out to you.
+
+But if you're new, I recommend you learn from MrBeast. And Patty Galloway because there is a science to good thumbnails. But the great thing is there's a ton of free resources to learn on YouTube and you don't have to spend hundreds of hours learning photoshop anymore.
+
+You can just use AI tools like midjourney in canva. Canva. You can crop, format, add text.
+
+You can do everything, all with no code. You can use midjourney to generate any image in Canva to cut, format and add text. Your only limit is your creativity.
+
+Okay, so bonus side hustle using midjourney in Canva is going to be selling products on Etsy. Now I don't know a lot about this, but my friend Liam Evans has made $3 million in the last few years selling these products on Etsy and he actually made a full video on how he does it with AI on his channel. So definitely go check that out.
+
+He is an absolute wizard at making money online and you'll learn a lot. But that's going to do it for today's video. Check out the free courses in the description if you're actually serious about making money online with AI.
+
+But other than that, hope you have a wonderful day and I will see you in the next one.

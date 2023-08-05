@@ -1,0 +1,89 @@
+Alex Becker SAS. Iman Gadji SAS. Sam ovens SAS.
+
+Even Alex Hermosi sold a SaaS in his $60 million exit. So today we're covering three ways no code. SAS will make you rich in 2023.
+
+You see, everyone knows software is the best business model because it is high leverage. Meaning you make the app once and then you can sell it for ever without incurring any extra costs. On top of this, you get monthly recurring revenue.
+
+So these customers pay you every single month. And SaaS companies are notorious for selling for five to ten x multiples of their top line revenue. Meaning if you make $5,000 a month in recurring revenue, aka $60,000 a year, you now have a $300,000 business that you can exit at any time.
+
+Think about it. If you get a software and you just get 100 customers paying you $50 a month, you now have a $300,000 asset that you can sell. Getting 100 customers seems reasonable, right? So it is safe to say that software is by far the best business model, or else why would all these guys be focusing so heavily on their own? Now, with these new no code software builders, you can create a SaaS without any code.
+
+Either way, you have to learn a new skill. So why not just learn the best business model instead of the best business model for beginners? Because there's way more upside potential. As long as you have an idea for an app.
+
+You can start building a SaaS today without any technical skill using this new tool called Bubble. With Bubble, you can just use pre made templates to kickstart your software and you don't have to write any code. You see, Bubble is like Shopify, where shopify helps you build online stores without any code.
+
+Bubble helps you build software without any code. You can literally build fully functional apps like Airbnb or Uber with just drag and drop features. So it's basically democratized the ability for non technical people like myself to build software.
+
+I can't really wrap my head around how big this is, but the opportunity is massive. Now anybody can build the best business model. You may wonder why people are always talking about Dropshipping, social media marketing agencies or selling on Amazon when software is such a lucrative opportunity.
+
+Well, the main reason is that software companies used to be really expensive to start. I mean, if you had an idea, you then had to hire a developer, which typically could cost you up to $10,000 a month. And on top of that, even though you have an idea, it takes a long time to see that actually come to life and get built.
+
+And you don't even know if the idea is going to work or not. So it's quite a big commitment. That's why business models like Dropshipping and Amazon FBA or social media marketing agencies are so popular on YouTube.
+
+Just because they're more beginner friendly, they require less investment and even less time to get started. And so that's what most people default into without really understanding that that's what makes them so competitive and so hard to succeed in. But times are changing, my friends, because thanks to these no code tools that I'm talking about in this video, it has never been faster or cheaper to build your software.
+
+I mean, if you have an idea, you can whip it up in a few days. And then if you want to change things around, it's super easy to tweak and add new features. So it's really interesting to see that not many people are talking about actually building software, even though most of all of these people on YouTube do have software companies.
+
+So, in summary, making apps has become cheaper, faster, and way more accessible for anyone to make them, thanks to these no code tools. And to be honest, you don't need a pile of cash or a college computer science degree to get started in software anymore. And it gets even better, because now with AI, you can make your software even more powerful.
+
+Just connect OpenAI's GPT four API into Bubble and you now have the power of chat GPT at your fingertips. Let's use Tweet Hunter, for example. They recently just sold their company for millions of dollars after just one year of being in business.
+
+What the software does is pretty straightforward. All it does is go through your tweet on your Twitter account and then uses the chat GPT API to go through and make new tweets that sound similar to the ones that you've already posted. So I've used the term API a few times in the video, and if you don't really know what that is, it's basically just a way for you to connect different software into other softwares.
+
+So, for example, Twitter into bubble. And what that means is basically, think of it like a waiter in a restaurant. So I'm the customer.
+
+I walk into a restaurant and I place my order. And the waiter is basically GPT for the API. And what the waiter does is they take my order and sends that order to the kitchen.
+
+The kitchen is going to actually create the food. And that food is going to be the Aigenerated text, the actual product that we want. But the API, the waiter is going to bring that food, the generated text, back to me, the customer.
+
+And so the API is connecting GPT four to my software app. And so if I put in something, it goes back to the kitchen. The kitchen makes it, the API brings it back and puts it in my software app.
+
+So for this example, my order would be, hey, I need five new tweets, and make sure that they sound like my previous tweets and make sure that they have the chance to go viral. The waiter says, okay, let me go put that in. They send it to the kitchen.
+
+The kitchen makes it, and the waiter brings it right back out to me. And that's what Tweet hunter is. That's literally it.
+
+With this setup, Tweet Hunter had a tool that helped people go viral and grow their Twitter accounts. And with some good marketing, they were able to sell for eight figures in just 18 months from the day they had the idea. So basically, all you have to do is find a specific niche, use case, and then build a software product around it with Bubble.
+
+My team was brand new to Bubble, and we figured out how to build a fully functional software app in just three days. The software uses AI to help students do their homework and is ready to accept paying customers as we speak. So naturally, I had them document it and create a step by step tutorial showing you exactly how they made the software connect.
+
+AI even connect stripe, so you're ready to accept payments and actually get paying customers. That tutorial is completely free. So if you want to learn how to build AI software with no code in 90 minutes, start to finish, click the first link in the description below.
+
+Okay, so if you want to build a software, you can build it in Bubble with no code. That is clear, but that is actually only one of many ways that you can actually make money with no code software. The second way is how we actually use Bubble internally at my company.
+
+Now, this is a little complex, but that's what makes it so, so good. So stick with me for the next five minutes here because this is the real opportunity. And if you actually understand the concept that I explain here, you'll be set for life.
+
+Okay? So most businesses use multiple software tools to organize and run their business, aka a system. Let's say that they use a system that includes project management, CRM and customer support tools like Trello, Salesforce and Zendesk. You may struggle with syncing information across these different tools, which can lead to communication gaps, delayed projects, and unhappy clients.
+
+So instead of having to go to Trello and then Salesforce and then Slack as individual steps or tabs, you can actually combine different features and put them all into one platform. Think of it like a car. Make would serve as the engine of your car, meaning it's going to connect everything together where Bubble would be used to create the body of your car.
+
+In other words, the design, the user management, and actually billing your customers. Make is basically a no code API connector where it integrates any software API into Bubble, kind of like how Tweethunter did with GPT Four. So what you could do is build internal SaaS platforms for businesses and create a unified view, analytics and workflows based on these tools.
+
+So let's break it down. You're going to be basically creating a central dashboard or a one stop shop where you can see your tasks, your sales leads and your customer support tickets from three different softwares all in one unified view. And so you can do this with bubble andmake.com
+
+with absolutely no code. And then you can manage all these different softwares all in one, just like that. Then what you can do is actually create an all in one analytics page so you can see your sales performances, your actual churn, different customer support tickets, or any other piece of data that you want and whatever view you want, whether you want graphs, pie charts, data spreadsheets, whatever it is.
+
+Then every single week you can have it triggered to send you weekly reports, all automatically, all in one place. And the best part is this actually enables automated workflows. Meaning if there's like a bug on your website and there's a customer support ticket about it, that automatically creates a task in Trello for your developer to fix the bug and then your salesperson gets notified until they have that relevant information.
+
+And it basically does all of the coordination work for you. So it creates automated workflows, you get all of your notifications from all of your software in one place and you also have all of your data and analytics in one place. So there you have it, it's relatively simple and it has boosted our company's productivity a lot.
+
+And what's still crazy to me is that this was only with two tools, make and Bubble, which both require no code whatsoever. So if you're a business owner, these automated systems will help you scale your business, stay organized and make better data driven decisions. This is the difference between a small business and a multimultimillion dollar business.
+
+If you work in a company, you could easily set this up and I guarantee you you're going to get a raise or promotion or something because this will do a lot for your company. So the opportunity here is that you could create an automated systems agency and charge a lot of money for this. You can go into a specific niche industry and start offering custom CRM dashboards and charge tens of thousands of dollars per client.
+
+Which leads me to the third way to make money with no code SaaS. And that is actually what our agency is doing and combining both or what I call advanced AI automation. So we have a friend that has a real estate company and right now his company uses about nine different software tools to actually operate their business.
+
+And right now, everybody in their company uses nine different tabs to use these tools, which is clunky. So we've been using Make.com and Bubble.com
+
+to create one unified dashboard. It took us roughly six weeks to work through everything and get it made since we were going at it blind. But since it's been in action for them, they are saving 30% of their time every single day since everything is streamlined in one place.
+
+So that was our first version. Now we're going through the whole thing again and sprinkling in AI at every step that it applies. So once we nail that software for his company and we know it's truly great, we are then going to sell it B to B to other real estate companies that do the same thing as him.
+
+And since it's a B to B software business to business, we are going to be charging thousands of dollars per month because we know that we'll be saving them hundreds of thousands of dollars. So that, my friends, is how we are using no code platforms to build businesses of the future. If you are a business owner and you want some of these automated systems, like right now, just reach out to our development agency and we'll be happy to build them for you.
+
+I'll leave a link for that in the description below. But guys, I don't know if you can sense it, but everything around us is changing. Making software has never been faster, cheaper or easier.
+
+And if you learn this skill now, you will never struggle to make money again. And I want to emphasize this point bubble is a skill that will be relevant for the next decade. And I want to make it clear the only way to get rich is by becoming a skilled person.
+
+Even if your first software idea doesn't work out or it's not that great, it doesn't matter because you will still have a very valuable skill that people will pay you for. And that skill is to just build software for other businesses. But guys, if this video got you excited, sign up for the free bubble course in the description below.
+
+It might just change the trajectory of your life and hey, it's free, so what do you have to lose? But guys, other than that, I hope you learned something. I hope you have a wonderful day and I will see you in the next one.

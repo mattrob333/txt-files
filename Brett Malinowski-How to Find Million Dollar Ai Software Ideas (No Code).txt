@@ -1,0 +1,71 @@
+By the end of this video, we will have a crystal clear strategy on how anyone can come up with software ideas that are best for them. Software is the best business. There's no debate.
+
+So you may be asking what software company is the best to start? Wrong question. You should be asking, what software idea are you best for? Let's say you have no clue what software business that you should start. This is what you need to understand in order for you to succeed in SaaS, you must have an advantage.
+
+So don't go looking on YouTube for software ideas. Instead, look within. You see, every human has unique knowledge and a unique network.
+
+So you should choose a business that leans into your knowledge or your network. We all know that the world is competitive which means that companies oftentimes sell the exact same product. And when this is the case, you must have a unique angle that makes you stand out from the pack.
+
+Thus giving you an advantage that can make you millions of dollars. More on that in just a few minutes. If you are new to my channel, I teach people how to make the best type of business software companies.
+
+And the reason I think this is such a big opportunity right now is because of AI. You can simply plug AI into any software and completely disrupt an entire industry. And the coolest thing is, you no longer have to be a developer to start a SaaS company.
+
+People are making millions of dollars by building software with drag and drop no Code templates, you can build fully functional software like Airbnb and Uber all without any code, thanks to a new platform called Bubble. If you want to learn more about Bubble itself then go watch my last video on how no code SaaS works and get our free course on how we built an AI software tool in less than two weeks. All with no code thanks to Bubble.
+
+Both of those will be linked below the video. Okay, great. But how do we come up with ideas? At the end of the day, if you want to make money, you have to solve a problem for another human.
+
+And if you can solve their problem, they will give you money in exchange for that. And if one person has that problem ODS are multiple people have that exact same problem. And the beauty of software is you can make the solution to that problem one time and then sell it to thousands and thousands of people who also have that problem.
+
+All without incurring any extra cost. So, in order to make money, you need to solve a problem. And to solve a problem, you need to know what problem exists.
+
+So how do we identify problems? Let's start with your unique knowledge. No matter what industry you work in ODS are you run into problems every single day? You see, most businesses operate in a series of steps. Let's use a course seller named Alex for an example.
+
+In order to sell his course. This is his series of steps. Make a few ads, run them on Facebook, then potential clients, aka leads, go to their website.
+
+These leads then book a call with a sales rep. And finally, the sales rep closes the deal. This series of steps is their system.
+
+And in this system, everything works pretty well. Every day, Alex spends $60 on three different Facebook ads to market and sell his course. Today, 100 people clicked on his ad, 30 people booked sales calls, and seven actually ended up purchasing the course.
+
+So he decided to look at his three different ads to see which one was doing the best. 60 people clicked on Ad A, 15 people clicked on Ad B, and 25 people clicked on Ad C. So Alex decided to turn off Ad B and then put that money into Ad A so he could get more sales.
+
+So he is now spending $40 on Ad A and $20 on Ad C. And the next day, he had 130 people visit his website and 40 people book sales calls. But something weird happened.
+
+His sales team only sold five courses. How is this possible? He got way more people on his website, but ended up selling less courses. That doesn't make sense.
+
+So he looks at his ads and see that 100 people came from Ad A and 30 people came from Ad C. So he decided to turn off Ad C and dump all of the money into Ad A, since it was getting the most clicks. And the next day, he saw that 200 people visited his website.
+
+60 booked a call, but only four ended up purchasing the course. How is it possible that he got 200 people on his website but sold less courses than when he had 100 people on his website the first day? Well, it's because Ad A was advertising a free training. But when people hopped on the sales call and realized that the course was actually $100, they felt deceived and they hung up.
+
+It turns out that only one out of the seven actual sales came from Ad A on the first day, and five out of the seven course sales came from Ad B. And if you remember, Ad B only had 15 people click on it. So how does that make sense? Well, Ad B clearly explained the value in the course and the benefits it would have for the buyer.
+
+It also specified that this was for experienced entrepreneurs only. So even though less people related to the ad and only a few clicked, the people who did click were much higher quality and a better match for the course, making them much more likely to buy. But because Facebook only tells you how many people click on your ads, alex was turning off ads that were getting him the most sales.
+
+This resulted in him wasting a lot of money on ads that got him a lot of clicks but were sending really low quality leads which resulted in no sales. So what did Alex do? He created a tool that would track not only the amount of clicks, but also the amount of sales from each individual ad. Now he can make decisions on which ads to run based on how many sales they get him, not how many clicks.
+
+This ended up saving Alex thousands of dollars and made him a lot of money. He then realized that if he had this problem, then many of his friends who also sold courses also have this problem. So he decided to make it a software tool and sell it as a service to help his friends make more money and scale their ad campaigns.
+
+His friends were blown away by the tool and it quickly started saving them hundreds of thousands of dollars every single year. So when he told him it was only $1,000 a month to use this tool, they were excited because it was saving them $10,000 every single month. Four years later, Alex sold his ad tracking software for $110,000,000.
+
+And that is the story of how Alex Becker used his unique knowledge to identify a big problem. If he wasn't selling courses and running ads, he would have never known that the problem even existed. But since he was working in the industry every single day, he identified the problem and decided he was going to be the person to solve it.
+
+There are a lot of lessons to be learned from that story, but the main takeaway is that there are problems all around you right now. Think about it. What part of your job feels like it takes an unnecessarily long amount of time to complete or feels extra annoying every time you have to do the task? That right there might be your multimillion dollar SaaS idea.
+
+Now, maybe you're not an expert in any domain. What do you do? Well, no need to fear because that leads us to potential advantage number two your unique network. You may not know a problem that exists, but ODS are your friends.
+
+Do you have any friends that own a business or are succeeding in an industry? Since they are working in the industry, they understand what is called the problem space, aka the entire range of problems that exist in a certain field. They understand the problem space and you understand how to integrate AI and build the solution with bubble and boom perfect partnership. Now there are really two parts of a business that you must cover.
+
+You need someone who can make the product and someone who can sell the product. It's the classic Steve Wozniak and Steve Jobs dynamic. Steve Wozniak built the Macintosh computers and Steve Jobs did all the branding, marketing and sale.
+
+So another example of how your network could give you advantage is if you have a friend that has a large social media following. Let's say their social media following is in the shoe reselling industry. Since your friend has the ability to make content and millions of people will see it, you could simply make a software very similar to one that already exists in the shoe reselling industry.
+
+You see, many people think they need to come up with a new idea that has never been done before. But odds are people have had that exact idea before, tried it and then realized that no one wants that product. So why gamble on a new idea when you can just make an existing product that you know people want? Just make it slightly different and make a better brand.
+
+Apple didn't invent the computer, but they stood apart with their brand and a sleek design. MailChimp HubSpot, ConvertKit, GetResponse these companies basically all do the exact same thing, but they're all billion dollar companies. The point is, you can make the exact same software product and take market share.
+
+Since you have an audience, aka a marketing advantage. There has never been a more disruptive technology. And if you're one of the first people to identify the best way to utilize AI in your industry, you will make millions.
+
+This is why I'm so excited about no code AI SaaS because every software company is at risk of being disrupted by an ambitious entrepreneur who wants to use AI to solve problems. And no, you don't even need to know how to code to build software anymore, thanks to Bubble. If you want some inspiration, I recommend you go look at Software Templates.
+
+On Bubble's Template Marketplace you can see a wide range of different types of software companies you can start and this is sure to get your creative juices flowing. I will leave a link in the description below. And if you want to go a step further, check out Acquire to see which software companies are selling for hundreds of thousands of dollars every single day.
+
+I have plenty of more videos coming out on no Code, SAS and AI automation. So if you're looking forward to that, subscribe to the channel. Other than that, hope you have a wonderful day and I will see you in the next one.
