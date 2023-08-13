@@ -1,0 +1,268 @@
+Make,Model,Manufacturer Name,Weight Class,Make Type,Size Category,Range,Passengers,Crew,Weight Ramp,Weight Takeoff,Weight Zero,Weight Basic Operating,Weight Landing,Speed Cruise,Landing Length,Range Tanks Full
+AIRBUS,ACJ TWOTWENTY,Airbus SAS,Heavy,Business Jet,Airline Business Jet,5686,19,4,141000,140500,108000,87675,112500,432,2300,5684
+AIRBUS,ACJ318,Airbus SAS,Heavy,Business Jet,Airline Business Jet,4250,19,4,150800,149900,120150,96694,126765,444,4050,4000
+AIRBUS,ACJ319,Airbus SAS,Heavy,Business Jet,Airline Business Jet,6000,19,4,169530,168650,128970,96450,137790,447,2220,6134
+AIRBUS,ACJ319neo,Airbus SAS,Heavy,Business Jet,Airline Business Jet,6750,19,4,173283,172401,116845,104000,140875,447,2220,6750
+AIRBUS,ACJ320,Airbus SAS,Heavy,Business Jet,Airline Business Jet,4300,19,4,175045,174165,141757,110000,148592,451,2400,6000
+AIRBUS,ACJ320neo,Airbus SAS,Heavy,Business Jet,Airline Business Jet,6000,19,4,175045,174165,141757,110000,148592,447,2565,6000
+AIRBUS,ACJ330,Airbus SAS,Heavy,Business Jet,Airline Business Jet,8500,25,4,509000,507000,370400,265457,396800,432,5680,0
+AIRBUS,ACJ330neo,Airbus SAS,Heavy,,Airline Business Jet,9400,25,4,531100,529100,374800,0,401200,0,5680,0
+ASTRA,1125,"Israel Aircraft Industries, Ltd.",Medium,Business Jet,Mid-Size Jet,2780,8,2,23650,23500,16000,13058,20700,448,2720,3110
+ASTRA,1125SP,"Israel Aircraft Industries, Ltd.",Medium,Business Jet,Mid-Size Jet,2780,6,2,23650,23500,16000,13225,20700,448,2720,0
+ASTRA,1125SPX,"Israel Aircraft Industries, Ltd.",Medium,Business Jet,Mid-Size Jet,2780,7,2,24800,24650,17000,14635,20700,448,2520,0
+BEECHJET,400,Beech/Raytheon,Light,Business Jet,Light Jet,1510,7,2,15850,15780,12470,11013,14220,378,2930,0
+BEECHJET,400A,Beech/Raytheon,Light,Business Jet,Light Jet,1180,7,2,16300,16100,13000,10915,15700,449,2960,0
+BOEING,BBJ,The Boeing Company,Heavy,Business Jet,Airline Business Jet,6297,19,4,171500,171000,126000,103345,134000,452,3837,6285
+BOEING,BBJ MAX 7,The Boeing Company,Heavy,Business Jet,Airline Business Jet,6810,19,4,177500,177000,138700,101550,145600,456,2360,6525
+BOEING,BBJ MAX 8,The Boeing Company,Heavy,Business Jet,Airline Business Jet,6680,19,4,181700,181200,145400,105200,152800,456,2335,6465
+BOEING,BBJ2,The Boeing Company,Heavy,Business Jet,Airline Business Jet,5648,19,4,174700,174200,138300,101172,146300,454,2370,5726
+BOEING,BBJ3,The Boeing Company,Heavy,Business Jet,Airline Business Jet,5496,19,4,188200,187700,149300,112426,157300,452,7000,0
+BOEING,BBJ747-8,The Boeing Company,Heavy,Business Jet,Airline Business Jet,8875,14,4,990000,987000,651000,486076,688000,495,6920,0
+BOEING,BBJ787-8,The Boeing Company,Heavy,Business Jet,Airline Business Jet,9955,40,4,503500,502500,355000,260664,380000,490,8000,0
+BOEING,BBJ787-9,The Boeing Company,Heavy,Business Jet,Airline Business Jet,9500,40,4,559000,557000,400000,349700,425000,490,8000,0
+CHALLENGER,300,Bombardier Inc.,Heavy,Business Jet,Super Mid-Size Jet,3340,8,2,39000,38850,27000,23500,33750,459,2290,0
+CHALLENGER,350,Bombardier Inc.,Heavy,Business Jet,Super Mid-Size Jet,3269,8,2,40750,40600,28200,24800,34150,459,2303,3169
+CHALLENGER,3500,Bombardier,Heavy,Business Jet,Super Mid-Size Jet,3400,11,3,40750,40600,28200,24800,34150,442,2303,3297
+CHALLENGER,600,"Canadair, Ltd.",Heavy,Business Jet,Large Jet,2909,11,2,41400,41250,28500,24150,36000,442,3050,0
+CHALLENGER,601-1A,"Canadair, Ltd.",Heavy,Business Jet,Large Jet,3450,11,2,43250,43100,29500,25900,36000,442,3550,0
+CHALLENGER,601-3A,"Canadair, Ltd.",Heavy,Business Jet,Large Jet,3000,11,2,43250,43100,31000,26000,36000,476,3300,0
+CHALLENGER,601-3R,"Canadair, Ltd.",Heavy,Business Jet,Large Jet,3580,11,2,45250,45100,31000,26250,36000,476,3300,0
+CHALLENGER,604,Bombardier Inc.,Heavy,Business Jet,Large Jet,4119,10,2,48300,48200,32000,27185,38000,459,2777,0
+CHALLENGER,605,Bombardier Inc.,Heavy,Business Jet,Large Jet,4123,10,3,48300,48200,32000,27150,38000,459,3833,0
+CHALLENGER,650,Bombardier Inc.,Heavy,Business Jet,Large Jet,4044,13,2,48300,48200,32000,27150,38000,424,2368,3979
+CHALLENGER,800,Bombardier Inc.,Heavy,Business Jet,Large Jet,3120,15,3,53250,53000,39500,33900,47000,442,2910,0
+CHALLENGER,850,Bombardier Inc.,Heavy,Business Jet,Large Jet,3096,15,2,53250,53000,44000,34618,47000,442,2910,0
+CHALLENGER,870,Bombardier Inc.,Heavy,Business Jet,Large Jet,2503,19,3,75250,75000,62300,44907,67000,447,2712,0
+CHALLENGER,890,Bombardier Inc.,Heavy,,Large Jet,2364,19,3,85000,84500,70600,48262,75000,448,2582,0
+CIRRUS,VISION SF50,Cirrus Design Corporation,Very Light Jet,Business Jet,Personal Jet,1125,4,1,6040,6000,4900,3772,5550,256,1628,1167
+CIRRUS,VISION SF50 G2,Cirrus Design Corporation,Very Light Jet,Business Jet,Personal Jet,1273,4,1,6040,6000,4900,3860,5550,259,1628,993
+CIRRUS,VISION SF50 G2+,Cirrus Design Corporation,Very Light Jet,Business Jet,Personal Jet,1098,4,1,6040,6000,4900,3860,5550,259,1628,1171
+CITATION,500,Cessna Aircraft Company,Light,Business Jet,Very Light Jet,1130,6,2,11650,11500,8400,5856,11000,348,2310,0
+CITATION,525,Cessna Aircraft Company,Light,Business Jet,Very Light Jet,1250,6,2,10500,10400,8400,6750,9700,323,2486,0
+CITATION,BRAVO,Cessna Aircraft Company,Light,Business Jet,Light Jet,1740,7,2,15000,14800,11300,9380,13500,405,2517,0
+CITATION,CJ1,Cessna Aircraft Company,Light,Business Jet,Very Light Jet,1161,7,1,10700,10600,8400,6860,9800,381,2488,0
+CITATION,CJ1+,Cessna Aircraft Company,Light,Business Jet,Very Light Jet,1245,7,1,10800,10700,8400,7219,9900,389,2361,0
+CITATION,CJ2,Cessna Aircraft Company,Light,Business Jet,Very Light Jet,1512,8,1,12500,12375,9300,7810,11500,413,2619,0
+CITATION,CJ2+,Cessna Aircraft Company,Light,Business Jet,Very Light Jet,1613,8,1,12625,12500,9700,7950,11525,413,2980,0
+CITATION,CJ3,Cessna Aircraft Company,Light,Business Jet,Light Jet,1875,7,1,14070,13870,10510,8790,12750,404,2770,0
+CITATION,CJ3+,Cessna Aircraft Company,Light,Business Jet,Light Jet,1918,9,1,14070,13870,10675,8540,12750,352,2422,1814
+CITATION,CJ4,Cessna Aircraft Company,Light,Business Jet,Light Jet,1949,7,2,17230,17110,12500,10254,15660,454,2281,1913
+CITATION,CJ4 GEN2,"Textron Aviation, Inc.",Light,Business Jet,Light Jet,2109,10,1,17230,17110,12500,10280,15660,377,2281,1913
+CITATION,ENCORE,Cessna Aircraft Company,Light,Business Jet,Light Jet,1667,7,2,16830,16630,12600,10520,15200,430,2770,0
+CITATION,ENCORE+,Cessna Aircraft Company,Light,Business Jet,Light Jet,1792,8,2,17030,16830,12850,10460,15200,430,2770,0
+CITATION,EXCEL,Cessna Aircraft Company,Light,Business Jet,Super Light Jet,1839,8,2,20200,20000,15000,12860,18700,433,3180,0
+CITATION,I,Cessna Aircraft Company,Light,Business Jet,Very Light Jet,750,6,2,12000,11850,8400,7403,11350,352,2270,0
+CITATION,I/SP,Cessna Aircraft Company,Light,Business Jet,Very Light Jet,1328,6,1,12000,11850,9500,7403,11350,322,2270,0
+CITATION,II,Cessna Aircraft Company,Light,Business Jet,Light Jet,1378,7,2,13500,13300,11000,8200,12700,321,2078,0
+CITATION,II/SP,Cessna Aircraft Company,Light,Business Jet,Light Jet,1520,7,1,12700,12500,11000,7648,12000,375,2270,0
+CITATION,III,Cessna Aircraft Company,Medium,Business Jet,Mid-Size Jet,2470,8,2,21700,22000,16300,13500,20000,427,2388,0
+CITATION,LATITUDE,Cessna Aircraft Company,Medium,Business Jet,Mid-Size Jet,2700,9,2,31050,30800,21430,18656,27575,368,2085,2645
+CITATION,LONGITUDE,"Textron Aircraft, Inc.",Medium,Business Jet,Super Mid-Size Jet,3500,12,2,39700,39500,26800,23600,33500,449,2595,3422
+CITATION,M2,Cessna Aircraft Company,Light,Business Jet,Light Jet,1195,6,1,10800,10700,8400,7004,9900,379,2340,1357
+CITATION,M2 GEN 2,"Textron Aviation, Inc.",Light,Business Jet,Light Jet,1204,7,1,10800,10700,8500,6990,9900,323,2340,1357
+CITATION,MUSTANG,Cessna Aircraft Company,Very Light Jet,Business Jet,Very Light Jet,991,4,1,8730,8645,6750,5600,8000,340,2137,1141
+CITATION,S/II,Cessna Aircraft Company,Light,Business Jet,Light Jet,1970,8,2,15300,15100,11200,8900,14400,410,2247,0
+CITATION,SOVEREIGN,Cessna Aircraft Company,Medium,Business Jet,Mid-Size Jet,3010,9,2,31025,30775,21000,18235,27575,459,2650,0
+CITATION,SOVEREIGN+,Cessna Aircraft Company,Medium,Business Jet,Mid-Size Jet,3163,9,2,31025,30775,21000,18311,27575,444,2149,2996
+CITATION,ULTRA,Cessna Aircraft Company,Light,Business Jet,Light Jet,1524,7,2,16500,16300,12200,9795,15200,373,2870,0
+CITATION,V,Cessna Aircraft Company,Light,Business Jet,Light Jet,1727,7,2,16100,15900,11200,9400,15200,425,2870,0
+CITATION,VI,Cessna Aircraft Company,Medium,Business Jet,Mid-Size Jet,2345,9,2,22200,22000,16300,13300,20000,427,2900,0
+CITATION,VII,Cessna Aircraft Company,Medium,Business Jet,Mid-Size Jet,1824,9,2,23200,23000,16500,14250,20000,452,2910,0
+CITATION,X,Cessna Aircraft Company,Heavy,Business Jet,Super Mid-Size Jet,3125,8,2,36400,36100,24400,22100,31800,525,2730,3070
+CITATION,X+,Cessna Aircraft Company,Heavy,Business Jet,Super Mid-Size Jet,3380,8,2,36900,36600,24978,22131,32000,518,2727,3241
+CITATION,XLS,Cessna Aircraft Company,Medium,Business Jet,Super Light Jet,1989,9,2,20400,20200,15100,12800,18700,433,2739,0
+CITATION,XLS GEN 2,"Textron Aviation, Inc.",Medium,Business Jet,Super Light Jet,2019,12,2,20530,20330,15360,12990,18700,353,2740,1877
+CITATION,XLS+,Cessna Aircraft Company,Medium,Business Jet,Super Light Jet,2018,8,2,20400,20200,15100,12860,18700,440,2740,1853
+DIAMOND,I,Mitsubishi,Light,Business Jet,Light Jet,1510,7,2,14700,14630,11550,9500,13200,375,2700,0
+DIAMOND,IA,Mitsubishi,Light,Business Jet,Light Jet,1513,7,2,14700,14630,11550,9410,13200,375,2800,0
+DIAMOND,II,Mitsubishi,Light,Business Jet,Light Jet,1530,7,2,15850,15780,12470,9740,14220,420,2930,0
+DORNIER,ENVOY 3,328 Support Services GmbH,Medium,Business Jet,Commercial Jet Airliner,2000,18,2,34789,34524,28814,22840,31724,341,4285,0
+ECLIPSE,550,Eclipse Aviation Corporation,Very Light Jet,Business Jet,Very Light Jet,1015,3,1,6034,6000,4922,3923,5600,369,2340,1125
+ECLIPSE,EA500,Eclipse Aviation Corporation,Very Light Jet,Business Jet,Very Light Jet,1190,5,1,6034,6000,4922,3923,5600,369,2340,1125
+EMBRAER,LEGACY 450,"Embraer, SA",Heavy,Business Jet,Mid-Size Jet,2919,7,2,35891,35759,25904,22983,32518,459,2090,2904
+EMBRAER,LEGACY 500,"Embraer, SA",Heavy,Business Jet,Super Mid-Size Jet,3167,8,2,38537,38360,26500,23700,34524,459,2114,2998
+EMBRAER,LEGACY 600,"Embraer, SA",Heavy,Business Jet,Large Jet,3485,13,2,49758,49604,35274,30081,40785,447,3835,3376
+EMBRAER,LEGACY 650,"Embraer, SA",Heavy,Business Jet,Large Jet,4123,13,2,53727,53572,36156,31217,44092,459,2346,3839
+EMBRAER,LEGACY 650E,"Embraer, SA",Heavy,Business Jet,Large Jet,3953,13,2,53727,53572,36156,31217,44092,425,2346,3839
+EMBRAER,LEGACY SHUTTLE,"Embraer, SA",Heavy,Business Jet,Large Jet,1893,16,2,44312,44092,35274,25829,40785,425,2084,0
+EMBRAER,LINEAGE 1000,"Embraer, SA",Heavy,Business Jet,Airline Business Jet,3965,19,3,120593,120152,80469,70548,100972,454,2038,4532
+EMBRAER,LINEAGE 1000E,"Embraer, SA",Heavy,Business Jet,Airline Business Jet,3965,19,3,120593,120152,80469,70548,100972,454,2038,4532
+EMBRAER,PHENOM 100,"Embraer, SA",Light,Business Jet,Very Light Jet,1071,5,1,10626,10582,8554,7220,9877,371,2466,0
+EMBRAER,PHENOM 100E,"Embraer, SA",Light,Business Jet,Very Light Jet,1178,5,1,10626,10582,8885,7132,9766,371,2722,1194
+EMBRAER,PHENOM 100EV,"Embraer Executive Aircraft, Inc.",Light,Business Jet,Very Light Jet,1113,7,1,10748,10703,9072,7297,9998,340,2473,1194
+EMBRAER,PHENOM 300,"Embraer Executive Aircraft, Inc.",Light,Business Jet,Light Jet,2019,7,1,18497,18387,14220,11583,17042,383,2220,1877
+EMBRAER,PHENOM 300E,"Embraer Executive Aircraft, Inc.",Light,Business Jet,Light Jet,2033,9,1,18618,18552,14264,11628,17273,385,2212,1932
+EMBRAER,PRAETOR 500,"Embraer, SA",Heavy,Business Jet,Mid-Size Jet,3412,9,2,37699,37567,25959,23038,34172,426,2086,3282
+EMBRAER,PRAETOR 600,"Embraer, SA",Heavy,Business Jet,Super Mid-Size Jet,4040,12,2,42990,42857,28660,24658,37478,433,2165,3878
+FALCON,10,Dassault Aviation,Light,Business Jet,Light Jet,1828,7,2,18743,18743,13560,11200,17200,459,2750,0
+FALCON,100,Dassault Aviation,Light,Business Jet,Light Jet,1475,8,2,18740,18740,13560,11200,17640,459,2750,0
+FALCON,200,Dassault Aviation,Medium,Business Jet,Super Mid-Size Jet,2204,9,2,32000,32000,22500,19200,28880,435,2860,0
+FALCON,2000,Dassault Aviation,Heavy,Business Jet,Large Jet,3130,10,2,36000,35800,28660,22750,33000,459,2579,0
+FALCON,2000DX,Dassault Aviation,Heavy,Business Jet,Large Jet,3440,10,2,41200,41000,29700,23190,39300,459,4333,0
+FALCON,2000EX,Dassault Aviation,Heavy,Business Jet,Large Jet,4045,10,2,42200,42200,29700,24000,39300,459,4333,0
+FALCON,2000EX EASy,Dassault Aviation,Heavy,Business Jet,Large Jet,4045,10,2,42200,42200,29700,24000,39300,459,4333,0
+FALCON,2000LX,Dassault Aviation,Heavy,Business Jet,Large Jet,4185,10,2,43000,42800,29700,23585,39300,453,2260,0
+FALCON,2000LXS,Dassault Aviation,Heavy,Business Jet,Large Jet,4100,10,2,43000,42800,29700,24750,39300,437,2295,3990
+FALCON,2000S,Dassault Aviation,Heavy,Business Jet,Large Jet,3638,10,2,41200,41000,29700,24750,39300,453,2295,3445
+FALCON,20C,Dassault Aviation,Medium,Business Jet,Super Mid-Size Jet,1200,9,2,26675,26455,18956,17000,26455,457,2940,0
+FALCON,20C-5,Dassault Aviation,Medium,Business Jet,Super Mid-Size Jet,2100,9,2,29100,29100,22000,16900,27734,436,3233,0
+FALCON,20D,Dassault Aviation,Medium,Business Jet,Super Mid-Size Jet,1630,9,2,27537,27337,22000,15800,27320,457,4850,0
+FALCON,20D-5,Dassault Aviation,Medium,Business Jet,Super Mid-Size Jet,2257,9,2,29100,29100,22000,18150,27734,436,2455,0
+FALCON,20E,Dassault Aviation,Medium,Business Jet,Super Mid-Size Jet,1630,9,2,28660,28660,22000,15800,27320,457,4850,0
+FALCON,20E-5,Dassault Aviation,Medium,Business Jet,Super Mid-Size Jet,2257,9,2,29100,29100,22000,18150,27734,436,2455,0
+FALCON,20F,Dassault Aviation,Medium,Business Jet,Super Mid-Size Jet,1610,9,2,28660,28660,22000,16370,27320,410,2450,0
+FALCON,20F-5,Dassault Aviation,Medium,Business Jet,Super Mid-Size Jet,2257,9,2,29100,29100,22000,18150,27734,436,2455,0
+FALCON,20G,Dassault Aviation,Medium,Business Jet,Super Mid-Size Jet,2204,9,2,32000,32000,22500,19200,27560,435,2860,0
+FALCON,50,Dassault Aviation,Heavy,Business Jet,Super Mid-Size Jet,3200,9,2,40780,38800,25570,21900,35715,431,2900,0
+FALCON,50-4,Dassault Aviation,Heavy,Business Jet,Super Mid-Size Jet,3210,9,2,40780,38820,25570,22200,35715,458,3500,0
+FALCON,50-40,Dassault Aviation,Heavy,Business Jet,Super Mid-Size Jet,3260,9,2,40780,39700,25570,21800,35715,459,2920,0
+FALCON,50EX,Dassault Aviation,Heavy,Business Jet,Super Mid-Size Jet,3388,9,2,39900,39700,25570,21800,35715,459,2159,0
+FALCON,6X,Dassault Aviation,Heavy,Business Jet,Large Long-Range Jet,5535,14,3,77660,77460,45920,40880,66190,459,2460,5350
+FALCON,7X,Dassault Aviation,Heavy,Business Jet,Large Long-Range Jet,5795,14,3,70200,70000,41000,36600,62400,459,2120,5670
+FALCON,8X,Dassault Aviation,Heavy,Business Jet,Large Ultra Long-Range Jet,6415,14,3,73200,73000,41000,36800,62400,459,2245,6325
+FALCON,900,Dassault Aviation,Heavy,Business Jet,Large Long-Range Jet,4080,12,2,45700,45500,28220,24683,42000,466,3633,0
+FALCON,900C,Dassault Aviation,Heavy,Business Jet,Large Long-Range Jet,4080,12,2,45700,45500,28220,24200,42000,466,3633,0
+FALCON,900DX,Dassault Aviation,Heavy,Business Jet,Large Long-Range Jet,4290,12,2,46900,46700,30864,24470,42200,459,3633,0
+FALCON,900EX,Dassault Aviation,Heavy,Business Jet,Large Long-Range Jet,4725,12,2,48500,48300,30864,26000,44500,459,3750,0
+FALCON,900EX EASy,Dassault Aviation,Heavy,Business Jet,Large Long-Range Jet,4725,12,2,49200,49000,30864,26000,44500,459,3750,0
+FALCON,900LX,Dassault Aviation,Heavy,Business Jet,Large Long-Range Jet,4685,12,2,49200,49000,30864,26750,44500,431,2455,4565
+GLOBAL,5000,Bombardier Inc.,Heavy,Business Jet,Large Long-Range Jet,5350,13,3,92750,92500,58000,50861,78600,488,2189,5395
+GLOBAL,5500,Bombardier Inc.,Heavy,Business Jet,Large Long-Range Jet,6310,16,3,92750,92500,58000,50861,78600,488,2195,5893
+GLOBAL,6000,Bombardier Inc.,Heavy,Business Jet,Large Ultra Long-Range Jet,5560,13,4,99750,99500,58000,52230,78600,470,2243,6130
+GLOBAL,6500,Bombardier Inc.,Heavy,Business Jet,Large Ultra Long-Range Jet,6990,17,4,99750,99500,58000,52230,78600,488,2231,6547
+GLOBAL,7500,Bombardier Inc.,Heavy,Business Jet,Large Ultra Long-Range Jet,7800,19,4,115100,114850,67500,61700,87600,488,2240,7700
+GLOBAL,8000,Bombardier Inc.,Heavy,,Large Ultra Long-Range Jet,7800,19,4,115100,114850,67500,60900,87600,488,2216,7949
+GLOBAL,EXPRESS,Bombardier Inc.,Heavy,Business Jet,Large Ultra Long-Range Jet,6125,13,3,95250,95000,56000,50300,78600,488,3667,6200
+GLOBAL,EXPRESS XRS,Bombardier Inc.,Heavy,Business Jet,Large Ultra Long-Range Jet,6226,13,3,98250,98000,56000,51500,78600,488,3667,0
+GULFSTREAM,G-500,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Ultra Long-Range Jet,5991,19,4,91400,91000,54500,48300,75300,488,3667,0
+GULFSTREAM,G-II,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Jet,2600,11,3,65300,64800,42000,36944,58500,459,3200,0
+GULFSTREAM,G-IIB,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Jet,3180,11,3,70200,69700,44000,39450,58500,459,3250,0
+GULFSTREAM,G-III,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Jet,3600,14,3,70200,69700,44000,39300,58500,459,3180,0
+GULFSTREAM,G-IV,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Long-Range Jet,4200,14,3,73600,73200,46500,43500,58500,476,3380,4216
+GULFSTREAM,G-IV (G400),Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Long-Range Jet,4166,13,3,75000,74600,49000,43900,66000,476,4417,0
+GULFSTREAM,G-IVSP,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Long-Range Jet,4166,14,3,75000,74600,49000,43500,66000,476,4458,0
+GULFSTREAM,G-V,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Long-Range Jet,6675,13,3,90900,90500,54500,48400,75300,488,3750,0
+GULFSTREAM,G100,"Israel Aircraft Industries, Ltd.",Medium,Business Jet,Mid-Size Jet,2910,7,2,24800,24650,17000,14365,20700,459,2520,0
+GULFSTREAM,G150,"Israel Aircraft Industries, Ltd.",Medium,Business Jet,Mid-Size Jet,3130,7,2,26250,26100,17500,15200,21700,459,2442,3011
+GULFSTREAM,G200,"Israel Aircraft Industries, Ltd.",Heavy,Business Jet,Super Mid-Size Jet,3530,8,3,35600,35450,24000,19950,30000,459,4352,0
+GULFSTREAM,G280,"Israel Aircraft Industries, Ltd.",Heavy,Business Jet,Super Mid-Size Jet,3700,10,2,39750,39600,28200,24200,32700,459,2365,3688
+GULFSTREAM,G300,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Jet,3820,13,3,72400,72000,49000,43500,66000,476,4417,0
+GULFSTREAM,G350,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Jet,3900,14,3,71300,70900,49000,42700,66000,476,4417,0
+GULFSTREAM,G450,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Long-Range Jet,4425,14,3,75000,74600,49000,43200,66000,476,2663,4216
+GULFSTREAM,G500,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Long-Range Jet,5400,19,2,80000,79600,52100,46850,64350,488,2645,5238
+GULFSTREAM,G550,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Ultra Long-Range Jet,6954,18,4,91400,91000,54500,48700,75300,476,2240,6698
+GULFSTREAM,G600,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Ultra Long-Range Jet,6630,19,4,95000,94600,57440,50900,76800,488,2365,6544
+GULFSTREAM,G650,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Ultra Long-Range Jet,6890,19,4,100000,99600,60500,54500,83500,488,2445,6959
+GULFSTREAM,G650ER,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Ultra Long-Range Jet,7437,19,4,104000,103600,60500,54500,83500,488,2445,7507
+GULFSTREAM,G700,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Ultra Long-Range Jet,7510,19,4,108000,107600,62750,56365,83500,488,2570,7450
+GULFSTREAM,G800,Gulfstream Aerospace Corporation,Heavy,Business Jet,Large Ultra Long-Range Jet,8025,19,4,106000,105600,60500,54300,83500,488,2500,7952
+HAWKER,1000A,British Aerospace,Medium,Business Jet,Mid-Size Jet,3098,8,3,31100,31000,19800,17900,25000,390,2600,0
+HAWKER,1000B,British Aerospace,Medium,Business Jet,Mid-Size Jet,2500,8,2,31100,31000,19800,17900,25000,390,2600,0
+HAWKER,125-1A,British Aerospace,Medium,Business Jet,Mid-Size Jet,2100,6,2,21200,21200,13000,11000,19550,425,1900,0
+HAWKER,125-1AS,British Aerospace,Medium,Business Jet,Mid-Size Jet,2100,6,2,21900,21700,13700,12000,19550,434,1960,0
+HAWKER,125-1B,British Aerospace,Medium,Business Jet,Mid-Size Jet,2100,6,2,21200,21200,13000,11000,19550,425,1900,0
+HAWKER,125-1BS,British Aerospace,Medium,,Mid-Size Jet,2100,6,2,21900,21700,13700,12000,19550,434,1960,0
+HAWKER,125-3A,British Aerospace,Medium,Business Jet,Mid-Size Jet,2100,7,2,21200,21700,13500,12000,20000,434,1960,0
+HAWKER,125-3A/RA,British Aerospace,Medium,Business Jet,Mid-Size Jet,2100,7,2,23100,22700,14200,13800,20000,443,2450,0
+HAWKER,125-3A/RAS,British Aerospace,Medium,Business Jet,Mid-Size Jet,2100,7,2,23800,23600,14700,13800,20000,443,2450,0
+HAWKER,125-3AS,British Aerospace,Medium,Business Jet,Mid-Size Jet,2100,7,2,21900,21700,13700,12000,20000,434,1960,0
+HAWKER,125-3B,British Aerospace,Medium,Business Jet,Mid-Size Jet,2100,7,2,21700,21700,13500,12000,20000,434,1960,0
+HAWKER,125-3B/RA,British Aerospace,Medium,Business Jet,Mid-Size Jet,2100,7,2,23100,22700,14200,13800,20000,443,2450,0
+HAWKER,125-3B/RAS,British Aerospace,Medium,Business Jet,Mid-Size Jet,2100,7,2,23800,23600,14700,13800,20000,443,2450,0
+HAWKER,125-3BS,British Aerospace,Medium,Business Jet,Mid-Size Jet,2100,7,2,21900,21700,13700,12000,20000,434,1960,0
+HAWKER,125-400A,British Aerospace,Medium,Business Jet,Mid-Size Jet,1530,7,2,23300,23300,14200,12500,20000,441,1960,0
+HAWKER,125-400AS,British Aerospace,Medium,Business Jet,Mid-Size Jet,2100,7,2,23300,23300,14200,12595,20000,436,1990,0
+HAWKER,125-400B,British Aerospace,Medium,Business Jet,Mid-Size Jet,1530,7,2,23300,23300,14200,12500,20000,441,1960,0
+HAWKER,125-400BS,British Aerospace,Medium,Business Jet,Mid-Size Jet,2100,7,2,23300,23300,14200,12595,20000,436,1990,0
+HAWKER,125-600A,British Aerospace,Medium,Business Jet,Mid-Size Jet,1620,8,2,25000,25000,15550,13603,22000,435,2125,0
+HAWKER,125-600AS,British Aerospace,Medium,Business Jet,Mid-Size Jet,2660,8,2,25000,25000,15550,13755,22000,435,2125,0
+HAWKER,125-600B,British Aerospace,Medium,Business Jet,Mid-Size Jet,1620,8,2,25000,25000,15550,13603,22000,435,2125,0
+HAWKER,125-600BS,British Aerospace,Medium,Business Jet,Mid-Size Jet,2660,8,2,25000,25000,15550,13755,22000,435,2125,0
+HAWKER,125-700A,British Aerospace,Medium,Business Jet,Mid-Size Jet,2330,8,2,25000,24800,16050,14550,22000,424,3600,0
+HAWKER,125-700B,British Aerospace,Medium,Business Jet,Mid-Size Jet,2330,8,2,25000,24800,16050,14550,22000,424,3600,0
+HAWKER,4000,Hawker Beechcraft Corporation,Heavy,Business Jet,Super Mid-Size Jet,3100,8,2,39700,39500,26000,23500,33500,470,2475,0
+HAWKER,400XP,Hawker Beechcraft Corporation,Light,Business Jet,Light Jet,1519,9,2,16500,16300,13000,10985,15700,450,3560,0
+HAWKER,400XPR,Hawker Beechcraft Corporation,Light,Business Jet,Light Jet,2160,8,2,16500,16300,13000,10900,15700,425,3400,2015
+HAWKER,750,Hawker Beechcraft Corporation,Medium,Business Jet,Super Light Jet,2200,9,2,27120,27000,18450,16200,23350,430,2245,0
+HAWKER,800A,British Aerospace,Medium,Business Jet,Mid-Size Jet,2570,8,2,27520,27400,17520,16000,23350,429,2800,0
+HAWKER,800B,British Aerospace,Medium,Business Jet,Mid-Size Jet,2415,8,2,27520,27400,17520,16000,23350,424,2800,0
+HAWKER,800XP,Raytheon Aircraft Company,Medium,Business Jet,Mid-Size Jet,2620,8,2,28120,28000,18450,16245,23350,430,2280,0
+HAWKER,800XPI,Raytheon Aircraft Company,Medium,Business Jet,Mid-Size Jet,2620,8,2,28120,28000,18450,16245,23350,430,2280,0
+HAWKER,850XP,Hawker Beechcraft Corporation,Medium,Business Jet,Mid-Size Jet,2710,8,2,28120,28000,18450,16229,23350,430,2245,0
+HAWKER,900XP,Hawker Beechcraft Corporation,Medium,Business Jet,Mid-Size Jet,2929,9,2,28120,28000,18450,16420,23350,430,2280,0
+HONDAJET,ELITE,"Honda Aircraft Company, Inc.",Light,Business Jet,Very Light Jet,1191,5,1,10780,10700,8900,7348,9960,413,2804,1433
+HONDAJET,ELITE II,"Honda Aircraft Company, Inc.",Light,Business Jet,Very Light Jet,1380,7,1,11180,11100,9300,7422,10360,360,2912,1523
+HONDAJET,ELITE S,"Honda Aircraft Company, Inc.",Light,Business Jet,Very Light Jet,1287,7,1,10980,10900,9100,7385,10160,360,2912,1408
+HONDAJET,HA-420,"Honda Aircraft Company, Inc.",Light,Business Jet,Very Light Jet,1223,5,1,10680,10600,8800,7450,9860,422,2795,1282
+JET COMMANDER,1121,Aero Commander & Israel Aircraft,Light,Business Jet,Mid-Size Jet,950,7,2,17100,16800,12000,8300,16000,426,3900,0
+JET COMMANDER,1121A,Aero Commander & Israel Aircraft,Light,Business Jet,Mid-Size Jet,950,7,2,17800,17500,12000,8300,16000,426,3900,0
+JET COMMANDER,1121B,Aero Commander & Israel Aircraft,Light,Business Jet,Mid-Size Jet,1100,7,2,17800,17500,12000,8300,16000,428,3900,0
+JETSTAR,6,Lockheed,Heavy,Business Jet,Mid-Size Jet,2645,10,2,41500,40921,23500,21157,30000,438,3440,0
+JETSTAR,731,Lockheed,Heavy,Business Jet,Mid-Size Jet,2600,10,2,44750,44500,27500,24178,36000,475,3020,0
+JETSTAR,8,Lockheed,Heavy,Business Jet,Mid-Size Jet,2342,10,2,42500,42000,25000,22074,35000,435,3440,0
+JETSTAR,II,Lockheed,Heavy,Business Jet,Mid-Size Jet,2770,10,2,44750,44500,27500,24593,36000,438,3020,0
+LEARJET,23,Gates Learjet,Light,Business Jet,Light Jet,1590,6,2,13000,12500,9000,6625,11800,423,2800,0
+LEARJET,24,Gates Learjet,Light,Business Jet,Light Jet,1012,6,2,13300,13000,9000,7090,11800,417,3350,0
+LEARJET,24A,Gates Learjet,Light,Business Jet,Light Jet,880,6,2,12749,12499,9000,7090,11880,417,3350,0
+LEARJET,24B,Gates Learjet,Light,Business Jet,Light Jet,1001,6,2,13800,13500,10000,7327,11880,437,3307,0
+LEARJET,24D,Gates Learjet,Light,Business Jet,Light Jet,1001,6,2,13800,13500,10000,7203,11880,473,2800,0
+LEARJET,24E,Gates Learjet,Light,Business Jet,Light Jet,850,6,2,13200,12900,10000,7425,11880,439,2789,0
+LEARJET,24F,Gates Learjet,Light,Business Jet,Light Jet,1001,6,2,13800,13500,10000,7530,11880,439,2873,0
+LEARJET,25,Gates Learjet,Light,Business Jet,Light Jet,1385,8,2,15500,15000,10000,7406,13300,442,2703,0
+LEARJET,25B,Gates Learjet,Light,Business Jet,Light Jet,1385,8,2,15500,15000,10000,7606,13300,442,2703,0
+LEARJET,25C,Gates Learjet,Light,Business Jet,Light Jet,1525,6,2,15500,15000,10000,7633,13300,441,3090,0
+LEARJET,25D,Gates Learjet,Light,Business Jet,Light Jet,1431,8,2,15500,15000,10000,8350,13300,456,2817,0
+LEARJET,25G,Gates Learjet,Light,Business Jet,Light Jet,1800,8,2,16500,16000,10000,8650,13300,464,2728,0
+LEARJET,28,Gates Learjet,Light,Business Jet,Light Jet,1450,8,2,15500,15000,10300,8968,14300,441,2734,0
+LEARJET,29,Gates Learjet,Light,Business Jet,Light Jet,1546,6,2,15500,15000,10300,8924,13300,441,2734,0
+LEARJET,31,Gates Learjet,Light,Business Jet,Light Jet,1337,8,2,17200,17000,13500,11200,16000,441,2507,0
+LEARJET,31A,Gates Learjet,Light,Business Jet,Light Jet,1337,8,2,17200,17000,13500,11203,16000,441,2767,0
+LEARJET,35,Gates Learjet,Light,Business Jet,Light Jet,1924,8,2,18500,18300,13500,10238,15300,436,3105,0
+LEARJET,35A,Learjet Inc.,Light,Business Jet,Light Jet,1990,8,2,18500,18300,13500,10519,15300,436,3075,0
+LEARJET,36,Gates Learjet,Light,Business Jet,Light Jet,2289,6,2,18500,18300,13500,10519,15300,436,3105,0
+LEARJET,36A,Learjet Inc.,Light,Business Jet,Light Jet,2708,6,2,18500,18300,13500,9970,15300,441,3075,0
+LEARJET,40,Learjet Inc.,Medium,Business Jet,Light Jet,1707,6,2,20600,20350,16000,13428,19200,436,2335,0
+LEARJET,40XR,Learjet Inc.,Medium,Business Jet,Light Jet,1960,7,2,21250,21000,16000,13861,19200,436,2355,0
+LEARJET,45,Learjet Inc.,Medium,Business Jet,Light Jet,1968,9,2,20750,20500,16000,13695,19200,436,2349,0
+LEARJET,45XR,Learjet Inc.,Medium,Business Jet,Light Jet,2049,9,2,21750,21500,16000,14113,19200,436,2660,0
+LEARJET,55,Learjet Inc.,Light,Business Jet,Mid-Size Jet,2296,8,2,19750,19500,15000,12530,17000,419,3300,0
+LEARJET,55B,Learjet Inc.,Medium,Business Jet,Mid-Size Jet,2250,8,2,21750,21500,15000,12855,18000,385,3300,0
+LEARJET,55C,Learjet Inc.,Medium,Business Jet,Mid-Size Jet,2222,8,2,21250,21000,15000,13258,18000,419,3250,0
+LEARJET,60,Learjet Inc.,Medium,Business Jet,Mid-Size Jet,2418,8,2,23750,23500,17000,14700,19500,436,3030,0
+LEARJET,60XR,Learjet Inc.,Medium,Business Jet,Mid-Size Jet,2398,6,2,23750,23500,17000,14902,19500,436,3049,0
+LEARJET,70,Learjet Inc.,Medium,Business Jet,Light Jet,2045,6,2,21750,21500,16000,13900,19200,436,2326,1881
+LEARJET,75,Learjet Inc.,Medium,Business Jet,Super Light Jet,2026,8,2,21750,21500,16500,14050,19200,436,2338,1884
+LEARJET,75 LIBERTY,Learjet Inc.,Medium,Business Jet,Super Light Jet,2080,6,2,21750,21500,16500,13598,19200,436,2296,1885
+NEXTANT,400XT,"Nextant Aerospace, LLC",Light,Business Jet,Light Jet,2096,7,2,16500,16300,13000,10700,15700,437,2960,1895
+NEXTANT,400XTi,"Nextant Aerospace, LLC",Light,Business Jet,Light Jet,2003,9,2,16500,16300,13000,10950,15700,406,2960,1895
+PILATUS,PC-24,"Pilatus Aircraft, Ltd.",Light,Business Jet,Light Jet,2000,10,1,18400,18300,14220,11720,16900,358,2120,2013
+PREMIER,I,Raytheon Aircraft Company,Light,Business Jet,Very Light Jet,1340,6,1,12590,12500,10000,8173,11600,426,2975,0
+PREMIER,IA,Hawker Beechcraft Corporation,Light,Business Jet,Very Light Jet,1340,7,1,12590,12500,10000,8550,11600,426,3170,0
+SABRELINER,40,Rockwell International,Light,Business Jet,Light Jet,1640,6,2,18650,18650,12800,10900,17500,431,2250,0
+SABRELINER,40A,Rockwell International,Light,Business Jet,Light Jet,1640,6,2,19035,18650,12800,11100,17500,431,2350,0
+SABRELINER,40EL,Rockwell International,Light,Business Jet,Light Jet,1640,6,2,18650,18650,12800,10900,17500,431,2250,0
+SABRELINER,40EX,Rockwell International,Light,Business Jet,Light Jet,1640,6,2,18650,18650,12800,10900,17500,431,2250,0
+SABRELINER,40R,Rockwell International,Light,Business Jet,Light Jet,1640,6,2,18650,18650,12800,10900,17500,431,2250,0
+SABRELINER,40SE,Rockwell International,Light,Business Jet,Light Jet,1640,6,2,18650,18650,12800,10900,17500,431,2250,0
+SABRELINER,50,Rockwell International,Light,Business Jet,Light Jet,1950,10,2,18650,18365,12250,14542,17500,435,1850,0
+SABRELINER,60,Rockwell International,Medium,Business Jet,Light Jet,1933,8,2,20372,20172,13800,11750,17500,430,2365,1933
+SABRELINER,60A,Rockwell International,Medium,Business Jet,Light Jet,2110,8,2,20372,20172,13800,11750,17500,430,2365,0
+SABRELINER,60AELXM,Rockwell International,Medium,Business Jet,Light Jet,2110,8,2,20372,20172,13800,11750,17500,430,2365,0
+SABRELINER,60EL,Rockwell International,Medium,Business Jet,Light Jet,1640,8,2,20372,20172,13800,11750,17500,430,2365,0
+SABRELINER,60ELXM,Rockwell International,Medium,Business Jet,Light Jet,1640,8,2,20372,20172,13800,11750,17500,430,2365,0
+SABRELINER,60EX,Rockwell International,Medium,Business Jet,Light Jet,1640,8,2,20372,20172,13800,11750,17500,430,2365,0
+SABRELINER,60SC,Rockwell International,Medium,Business Jet,Light Jet,2110,8,2,20372,20172,13800,11750,17500,430,2365,0
+SABRELINER,60SCEL,Rockwell International,Medium,Business Jet,Light Jet,2110,8,2,20372,20172,13800,11750,17500,430,2365,0
+SABRELINER,60SCELXM,Rockwell International,Medium,Business Jet,Light Jet,2110,8,2,20372,20172,13800,11750,17500,430,2365,0
+SABRELINER,60SCEX,Rockwell International,Medium,Business Jet,Light Jet,2110,8,2,20375,20172,13800,11750,17500,430,2365,0
+SABRELINER,65,Rockwell International,Medium,Business Jet,Light Jet,2480,8,2,24000,24000,16250,14100,21755,441,3345,0
+SABRELINER,75,Rockwell International,Medium,Business Jet,Light Jet,2520,8,2,21200,21000,14300,12600,21000,430,2525,0
+SABRELINER,80,Rockwell International,Medium,Business Jet,Light Jet,1483,8,2,23500,23300,15620,13600,22000,436,2625,0
+SABRELINER,80A,Rockwell International,Medium,Business Jet,Light Jet,2310,8,2,25500,23300,15620,13750,22000,435,2625,0
+SABRELINER,80SC,Rockwell International,Medium,Business Jet,Mid-Size Jet,2310,8,2,25500,23300,15620,13750,22000,435,2625,0
+SUKHOI,SBJ,Sukhoi Civil Aircraft (CJSC),Heavy,Business Jet,Airline Business Jet,4250,10,3,109019,109019,88185,0,90390,537,0,0
+SYBERJET,SJ30-2,Syberjet Aircraft,Light,Business Jet,Light Jet,1915,6,1,14050,13950,10500,8917,12725,436,2657,2598
+WESTWIND,1,"Israel Aircraft Industries, Ltd.",Medium,Business Jet,Mid-Size Jet,2385,7,2,23650,23500,16500,13000,19000,424,2450,0
+WESTWIND,1123,"Israel Aircraft Industries, Ltd.",Medium,Business Jet,Mid-Size Jet,1450,7,2,21000,20700,14500,11900,19000,426,2900,0
+WESTWIND,1124,"Israel Aircraft Industries, Ltd.",Medium,Business Jet,Mid-Size Jet,2385,7,2,23650,23500,16500,13000,19000,424,2450,0
+WESTWIND,2,"Israel Aircraft Industries, Ltd.",Medium,Business Jet,Mid-Size Jet,2750,7,2,23650,23500,16500,13250,19000,425,2150,0
