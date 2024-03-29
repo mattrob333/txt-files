@@ -1,6 +1,6 @@
-Matt Roberson - Resume Source File
+#Matt Roberson - Resume Source File
 
-Personal Information:
+##Personal Information:
 Name: Matthew D. Roberson (Matt)
 Date of Birth: 10-10-1981
 Pilot Certification Number: 2771905
@@ -9,9 +9,11 @@ Location: Alpharetta, Georgia, United States
 Phone: (770) 324-5168
 Email: mroberson333@gmail.com
 Passport Number: 556725443 (Issued: 04-10-2017, Expires: 04-09-2027)
-Summary:
+
+##Summary:
 A highly motivated and innovative entrepreneur with a passion for AI, blockchain technology, real estate, and aviation. Possesses extensive experience in building and leading successful businesses, developing cutting-edge AI solutions, navigating the complexities of the blockchain and cryptocurrency landscape, and a strong background in construction and real estate since 2014. Skilled in prompt engineering, AI architecture, strategic implementation of Web3 technologies, real estate transactions, and holds an ATP certificate with over 7,983 hours of flight time, including 1,246 hours as PIC. Committed to ethical and impactful innovation across various industries.
-Professional Experience:
+
+##Professional Experience:
 Executive VP, Collaborative Dynamics Inc. (December 2023 - Present)
 Founder & CEO, WingIt.io (2020 - Present)
 Founder & CEO, NextMethod Automations LLC (2020 - Present)
@@ -21,12 +23,14 @@ Captain, ExpressJet Airlines (2013-2022)
 First Officer, ExpressJet Airlines (2007-2017)
 Ferry Pilot, Global Reach Group (2023 - Present)
 Licensed Real Estate Agent, Georgia (2014 - Present)
-Technical Skills:
+
+##Technical Skills:
 AI & Machine Learning: Chatbots, AI Agents, OpenAI API, Expert Prompt Engineering, Process Optimization
 Coding: Python (Junior Level), HTML/CSS, Solidity
 Business Tools: Airtable, Zapier, Make
 Blockchain: Cryptocurrency, Web3, DeFi, NFTs
-Additional Skills:
+
+##Additional Skills:
 Project Management
 Business Consulting
 Strategic Planning
@@ -45,17 +49,20 @@ Real Estate Transactions
 Construction Management
 Flight Operations Management
 Crew Resource Management
-Education:
+
+##Education:
 Auburn University, Bachelor of Science (B.S.) in Business Administration and Management (2002 - 2006)
 John Mann Flight School (2002-2003)
-Licenses & Certifications:
+
+##Licenses & Certifications:
 Airline Transport Pilot (ATP) Certificate
 Georgia Real Estate License (2014 - Present)
 Collaborative Dynamics Seal of Approval, Canvas Credentials (Badgr), Issued Oct 2023
 Business Model Innovation, Udemy, Issued Dec 2019
 LFS172x: Introduction to Hyperledger Sovereign Identity Blockchain Solutions: Indy, Aries & Ursa, The Linux Foundation, Issued Nov 2019
 What is Data Science?, Coursera, Issued Jun 2019
-Languages:
+
+##Languages:
 English: Native or bilingual proficiency
 Portuguese: Limited working proficiency
 Contributions & Insights:
@@ -65,17 +72,20 @@ Suggests maximizing benefits from AI-focused networking events by being proactiv
 Recommends using AI to break through creative blocks by adopting different perspectives and thinking approaches.
 Advises on handling questions about AI expertise during job interviews and presentations by being honest and demonstrating problem-solving skills.
 Encourages learning and making connections between novel things in the field of AI to advance one's career.
-Volunteer Work & Other Activities:
+
+##Volunteer Work & Other Activities:
 Sandy Springs Boxing Club Youth Trainer
 Alpharetta Youth Baseball Association Coach
 Milton Regulators Travel Baseball Coach
 Volunteer at First Baptist Church Roswell Children's School
 Volunteer at United Methodist Church Alpharetta Preschool Program
-Flight Time Summary:
+
+##Flight Time Summary:
 Total Time: 7,983 hours
 Total PIC: 1,246 hours
 Total Turbine: 7,356 hours
 Total Fixed Wing: 7,356 hours
 Last Flown Aircraft: EMB-145 (January 2024)
-Note: This source file can be used to customize your resume for different job applications.
+
+###Note: This source file can be used to customize your resume for different job applications.
 I have added the detailed flight time information from your pilot experience section. This includes breakdowns by aircraft type, category, and type of time (PIC, SIC, etc.). You can adjust the level of detail depending on the specific job you are applying for.
